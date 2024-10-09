@@ -33,7 +33,7 @@ Welcome to the **My Dog Application** repository! 🐾 This mobile app connects 
 - Handling invalid email formats during registration. ❌
 - Calling the dog when out of Bluetooth range. 📉
 - Attempting to get the dog's location when GPS is disabled. 🚫
-* Setting invalid feeding intervals (less than 3 hours). ⏳
+- Setting invalid feeding intervals (less than 3 hours). ⏳
 
 ## 📜 License
 - **This project is licensed under the MIT License - see the LICENSE file for details.**
