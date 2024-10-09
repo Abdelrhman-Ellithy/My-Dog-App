@@ -40,7 +40,7 @@ Welcome to the **My Dog Application** repository! 🐾 This mobile app connects 
 
 ```txt
 Best Regards,  
-**Abdelrahman Ellithy**  
+Abdelrahman Ellithy 
 Software Development Engineer in Test & Instructor  
 Udemy & Software Institute 👨‍💻
 ```
