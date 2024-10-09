@@ -37,3 +37,10 @@ Welcome to the **My Dog Application** repository! 🐾 This mobile app connects 
 
 ## 📜 License
 - **This project is licensed under the MIT License - see the LICENSE file for details.**
+
+```txt
+Best Regards,  
+**Abdelrahman Ellithy**  
+Software Development Engineer in Test & Instructor  
+Udemy & Software Institute 👨‍💻
+```
